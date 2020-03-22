@@ -1,0 +1,6 @@
+[puppet]
+name=Puppet Repository el 8 - $basearch
+baseurl=http://yum.puppetlabs.com/puppet/el/8/$basearch
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-puppet-release
+enabled=1
+gpgcheck=1
